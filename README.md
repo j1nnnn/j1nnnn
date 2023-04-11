@@ -67,7 +67,15 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=j1nnnn&show_icons=true&theme=radical&hide_title=true" />
   </a>
 </p>
-  
+<br/>
+
+<h2 align="center">💡 My Most Used Languages 💡</h2>
+<p align="center">
+  <a href="https://github.com/j1nnnn">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=j1nnnn&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=Dockerfile" />
+  </a>
+</p>
+<br/>
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:A6E3E9,100:71C9CE&reversal=true" />
 <!--
 **j1nnnn/j1nnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
