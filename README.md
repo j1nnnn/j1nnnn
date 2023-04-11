@@ -4,7 +4,7 @@
 
 <h2 align="center">✨ Tech Stack ✨</h2>
 <p align="center">
-  <a href="https://github.com/amy279">
+  <a href="https://github.com/j1nnnn">
     <img src="https://img.shields.io/badge/c-2300599C?style=flat&logo=C&logoColor=white" />
     <img src="https://img.shields.io/badge/c%23-23239120?style=flat&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/c++-2300599C?style=flat&logo=c%2B%2B&logoColor=white" />
