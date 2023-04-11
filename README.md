@@ -14,14 +14,14 @@
     <br/>
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/>
     <img src="https://img.shields.io/badge/Atom-2366595C?style=flat&logo=atom&logoColor=white"/>
-    <img src="https://img.shield.io/badge/Eclipse-FE7A16?style=flat&logo=Eclipse&logoColor=white"/>
-    <img src="https://img.shield.io/badge/Emacs-237F5AB6&style=flat&logo=gnu-emacs&logoColor=white"/>
-    <img src="https://img.shield.io/badge/sublime_text-23575757?style=flat&logo=sublime-text&logoColor=important"/>
-    <img src="https://img.shield.io/badge/Pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-    <img src="https://img.shield.io/badge/Replit-DD1200?style=flat&logo=Replit&logoColor=white"/>
-    <img src="https://img.shield.io/badge/Visual%20Studio%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white"/>
-    <img src="https://img.shield.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/>
-    <img src="https://img.shield.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Eclipse-FE7A16?style=flat&logo=Eclipse&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Emacs-237F5AB6&style=flat&logo=gnu-emacs&logoColor=white"/>
+    <img src="https://img.shields.io/badge/sublime_text-23575757?style=flat&logo=sublime-text&logoColor=important"/>
+    <img src="https://img.shields.io/badge/Pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+    <img src="https://img.shields.io/badge/Replit-DD1200?style=flat&logo=Replit&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white"/>
     <br/>
     <img src="https://img.shields.io/badge/PHP-23777BB4?style=flat&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> 
