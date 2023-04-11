@@ -1,5 +1,6 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&text=Jinwoo%20Lim&animation=twinkling&height=300&section=footerfontSize=90" />
+
 <!--
 **j1nnnn/j1nnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
