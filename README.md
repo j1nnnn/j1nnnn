@@ -52,6 +52,8 @@
   </a>
 </p>
 <br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:A6E3E9,100:71C9CE&reversal=true" />
 <!--
 **j1nnnn/j1nnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
