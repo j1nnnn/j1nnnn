@@ -3,9 +3,9 @@
 <h2 align="center">✨ Tech Stack ✨</h2>
 <p align="center">
   <a href="https://github.com/j1nnnn">
-    <img src="https://img.shields.io/badge/c-2300599C?style=flat&logo=C&logoColor=white" />
-    <img src="https://img.shields.io/badge/c%23-23239120?style=flat&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/c++-2300599C?style=flat&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/C-2300599C?style=flat&logo=C&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-23239120?style=flat&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-2300599C?style=flat&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-23ED8B00?style=flat&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
     <br/>
@@ -16,16 +16,16 @@
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/> 
     <br/>
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> 
-    <img src="https://img.shields.io/badge/heroku-23430098?style=flat&logo=heroku&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Heroku-23430098?style=flat&logo=heroku&logoColor=white"/>
     <img src="https://img.shields.io/badge/AWS-23FF9900?style=flat&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/firebase-23039BE5?style=flat&logo=firebase" />
-    <img src="https://img.shields.io/badge/oracle-f80000?style=flat&logo=oracle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-23039BE5?style=flat&logo=firebase" />
+    <img src="https://img.shields.io/badge/Oracle-f80000?style=flat&logo=oracle&logoColor=white"/>
     <br/>
     <img src="https://img.shields.io/badge/CSS-1572B66?style=flat&logo=CSS3&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/> 
     <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=styled-components&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Github%20Pages-121013?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 <br/><br/>
