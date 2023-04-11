@@ -53,12 +53,20 @@
     <br/>
   </a>
 </p>
-<br/><br/>
+<br/>
 
 <h2 align="center"> Software Engineer </h2>
   <p align="center">
     <img align="center" src="https://img.shields.io/badge/1coolbobby159@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/Jinwoo Lim-0A66C2?style=flat&logo=Linkedin&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/Jin's Portfolio-EA4335?style=flat&logo=github&logoColor=white" />
-  </p>  
+  </p>
+<br/>
+
+<h2 align="center">💡 My GitHub stats 💡</h2>
+<p align="center">
+  <a href="https://github.com/j1nnnn">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=j1nnnn&show_icons=true&theme=radical&hide_title=true" />
+  </a>
+</p>
   
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:A6E3E9,100:71C9CE&reversal=true" />
 <!--
