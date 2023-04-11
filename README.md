@@ -51,7 +51,6 @@
     <img src="https://img.shields.io/badge/Trello-23026AA7?style=flat&logo=Trello&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jenkins-232C5263?style=flat&logo=jenkins&logoColor=white"/>
     <br/>
-    <h1> ML/DL (In Progress) </h1>
   </a>
 </p>
 <br/><br/>
