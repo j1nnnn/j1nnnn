@@ -8,7 +8,22 @@
     <img src="https://img.shields.io/badge/C++-2300599C?style=flat&logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-23ED8B00?style=flat&logo=Java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
+    <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat&logo=swift&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kotlin-237F52FF?style=flat&logo=kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/latex-23008080?style=flat&logo=latex&logoColor=white"/>
     <br/>
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Atom-2366595C?style=flat&logo=atom&logoColor=white"/>
+    <img src="https://img.shield.io/Eclipse-FE7A16?style=flat&logo=Eclipse&logoColor=white"/>
+    <img src="https://img.shield.io/Emacs-237F5AB6&style=flat&logo=gnu-emacs&logoColor=white"/>
+    <img src="https://img.shield.io/sublime_text-23575757?style=flat&logo=sublime-text&logoColor=important"/>
+    <img src="https://img.shield.io/Pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+    <img src="https://img.shield.io/Replit-DD1200?style=flat&logo=Replit&logoColor=white"/>
+    <img src="https://img.shield.io/Visual%20Studio%20Code-0078d7?style=flat&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shield.io/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white"/>
+    <img src="https://img.shield.io/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white"/>
+    <br/>
+    <img src="https://img.shields.io/badge/PHP-23777BB4?style=flat&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/> 
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> 
@@ -25,7 +40,18 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/> 
     <img src="https://img.shields.io/badge/styled%20components-DB7093?style=flat&logo=styled-components&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=GitHub&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-23F05033?style=flat&logo=git=logoColor=white"/>
     <img src="https://img.shields.io/badge/Github%20Pages-121013?style=flat&logo=github&logoColor=white" />
+    <br/>
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&pointcolor=white"/>
+    <img src="https://img.shields.io/badge/Jira-230A0FFF?style=flat&logo=jira&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Confluence-23172BF4?style=flat&logo=confluence&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Splunk-23000000?style=flat&logo=splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Trello-23026AA7?style=flat&logo=Trello&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jenkins-232C5263?style=flat&logo=jenkins&logoColor=white"/>
+    <br/>
+    <h1> ML/DL (In Progress) </h1>
   </a>
 </p>
 <br/><br/>
