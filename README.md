@@ -56,9 +56,10 @@
 <br/><br/>
 
 <h2 align="center"> Software Engineer </h2>
-<p align="center">
-  <img align="center" src="https://img.shields.io/badge/1coolbobby159@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/cs22-jinwoo-lim-0A66C2?style=flat&logo=Linkedin&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/Jin's Portfolio-EA4335?style=flat&logo=github&logoColor=white" />
-</p>  
+  <p align="center">
+    <img align="center" src="https://img.shields.io/badge/1coolbobby159@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/cs22-jinwoo-lim-0A66C2?style=flat&logo=Linkedin&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/Jin's Portfolio-EA4335?style=flat&logo=github&logoColor=white" />
+  </p>  
+  
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:A6E3E9,100:71C9CE&reversal=true" />
 <!--
 **j1nnnn/j1nnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
