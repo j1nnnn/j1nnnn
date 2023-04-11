@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color==0:A6E3E9,100:71C9CE&text=Jinwoo%20Lim&animation=twinkling&hfontColor=A4F3E5&fontAlign=50&height=200&fontSize=50" />
 
-<h2 align="center">✨ Tech Stack ✨</h2>
+<h2 align="center">💈 Tech Stack 💈</h2>
 <p align="center">
   <a href="https://github.com/j1nnnn">
     <img src="https://img.shields.io/badge/C-2300599C?style=flat&logo=C&logoColor=white" />
