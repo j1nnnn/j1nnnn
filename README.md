@@ -57,7 +57,7 @@
 
 <h2 align="center"> Software Engineer </h2>
   <p align="center">
-    <img align="center" src="https://img.shields.io/badge/1coolbobby159@gmail.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/Jinwoo Lim-0A66C2?style=flat&logo=Linkedin&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/Jin's Portfolio-EA4335?style=flat&logo=github&logoColor=white" />
+    <img align="center" src="https://img.shields.io/badge/devj49l@outlook.com-EA4335?style=flat&logo=Gmail&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/Jinwoo Lim-0A66C2?style=flat&logo=Linkedin&logoColor=white"/> <img align="center" src="https://img.shields.io/badge/Jin's Portfolio-EA4335?style=flat&logo=github&logoColor=white" link="j1nnnn.github.com/reactportfolio"/>
   </p>
 <br/>
 
